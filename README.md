@@ -51,10 +51,11 @@ SystemK transforms traditional paper ledgers used in gold shops into a modern di
 ### Core Features
 
 **Transaction Types:**
-- شغل (Work/Labor) - Add invoice
-- سداد (Payment) - Record cash payments  
-- إضافة (Addition) - Add transactions
-- مرتجع (Return/Refund) - Handle return
+-  (Work/Labor) - Add invoice
+-  (Payment) - Record cash payments  
+-  (Addition) - Add transactions
+-  (Return/Refund) - Handle return
+  
 **Multi-Karat Support:**
 - Separate tracking for 18 karat and 21 karat gold
 - Automatic weight calculations
