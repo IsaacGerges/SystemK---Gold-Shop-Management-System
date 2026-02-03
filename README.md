@@ -1,4 +1,4 @@
-# 💎 SystemK - Gold Shop Management System
+ # 💎 SystemK - Gold Shop Management System
 
 A comprehensive desktop application built with Flutter for managing gold shop operations, digitizing traditional paper-based workflows.
 
@@ -13,17 +13,17 @@ SystemK transforms traditional paper ledgers used in gold shops into a modern di
 ### 🎥 App Screenshots
 
 <p align="center">
-  <img src="screenshot/1.jpg" width="600" />
-  <img src="screenshot/2.jpg" width="600" />
-  <img src="screenshot/3.jpg" width="600" />
-  <img src="screenshot/4.jpg" width="600" />
-  <img src="screenshot/5.jpg" width="600" />
-  <img src="screenshot/6.jpg" width="600" />
-  <img src="screenshot/7.jpg" width="600" />
-  <img src="screenshot/8.jpg" width="600" />
-  <img src="screenshot/9.jpg" width="600" />
-  <img src="screenshot/10.jpg" width="600" />
-  <img src="screenshot/11.jpg" width="600" />
+  <img src="screenshot/1.JPG" width="600" />
+  <img src="screenshot/2.JPG" width="600" />
+  <img src="screenshot/3.JPG" width="600" />
+  <img src="screenshot/4.JPG" width="600" />
+  <img src="screenshot/5.JPG" width="600" />
+  <img src="screenshot/6.JPG" width="600" />
+  <img src="screenshot/7.JPG" width="600" />
+  <img src="screenshot/8.JPG" width="600" />
+  <img src="screenshot/9.JPG" width="600" />
+  <img src="screenshot/10.JPG" width="600" />
+  <img src="screenshot/11.JPG" width="600" />
 </p>
 
 ## ✨ Key Features
@@ -105,7 +105,7 @@ The system manages complex financial calculations:
 
 ## 👨‍💻 Developer
 
-**[Your Name]**
+**[Isaac Gerges]**
 - GitHub: [@isaacGerges](https://github.com/IsaacGerges)
 - LinkedIn: [isaacGerges](https://linkedin.com/in/isaac-gerges-14405022b/)
 
