@@ -13,17 +13,17 @@ SystemK transforms traditional paper ledgers used in gold shops into a modern di
 ### 🎥 App Screenshots
 
 <p align="center">
-  <img src="1.jpg" width="600" />
-  <img src="2.jpg" width="600" />
-  <img src="3.jpg" width="600" />
-  <img src="4.jpg" width="600" />
-  <img src="5.jpg" width="600" />
-  <img src="6.jpg" width="600" />
-  <img src="7.jpg" width="600" />
-  <img src="8.jpg" width="600" />
-  <img src="9.jpg" width="600" />
-  <img src="10.jpg" width="600" />
-  <img src="11.jpg" width="600" />
+  <img src="screenshot/1.jpg" width="600" />
+  <img src="screenshot/2.jpg" width="600" />
+  <img src="screenshot/3.jpg" width="600" />
+  <img src="screenshot/4.jpg" width="600" />
+  <img src="screenshot/5.jpg" width="600" />
+  <img src="screenshot/6.jpg" width="600" />
+  <img src="screenshot/7.jpg" width="600" />
+  <img src="screenshot/8.jpg" width="600" />
+  <img src="screenshot/9.jpg" width="600" />
+  <img src="screenshot/10.jpg" width="600" />
+  <img src="screenshot/11.jpg" width="600" />
 </p>
 
 ## ✨ Key Features
